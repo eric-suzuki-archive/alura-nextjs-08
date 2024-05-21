@@ -2,6 +2,7 @@ import React from 'react';
 
 interface StyleSheet {
   fontFamily: string;
+  backgroundColor: string;
 }
 
 interface BoxProps {
